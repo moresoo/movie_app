@@ -10,27 +10,3 @@ body {
     background-color: #eff3f7;
     height: 100%;
 }
-
-.container {
-    height: 100%;
-    display: flex;
-    justify-content: center;
-}
-
-.loader {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-    font-weight: 300;
-}
-
-.movies {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    flex-wrap: wrap;
-    padding: 50px;
-    padding-top: 70px;
-}
